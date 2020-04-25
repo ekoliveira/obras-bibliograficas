@@ -1,29 +1,51 @@
+
+
 # Obras Bibliográficas
 
-(LEIA ATÉ O FINAL)
+**Componentes utilizados**
 
-Quando se lista o nome de autores de livros, artigos e outras publicações é comum que se apresente o nome do autor ou dos autores da seguinte forma: sobrenome do autor em letras maiúsculas, seguido de uma vírgula e da primeira parte do nome apenas com as iniciais maiúsculas.
+Back-End:
 
-Por exemplo:
-* SILVA, Joao
-* COELHO, Paulo
-* ARAUJO, Celso de
+ - .NET CORE 2.2
+ - Arquitetura MVC
+ - EntityFrameWorkCore 2.2.0
+ - SQL Server Local DB
+ - Swagger
 
-Seu desafio é fazer um programa que leia um número inteiro correspondendo ao número de nomes que será fornecido, e, a seguir, leia estes nomes (que podem estar em qualquer tipo de letra) e imprima a versão formatada no estilo exemplificado acima.
+Front-End:
 
-As seguintes regras devem ser seguidas nesta formatação:
-* o sobrenome será igual a última parte do nome e deve ser apresentado em letras maiúsculas;
-* se houver apenas uma parte no nome, ela deve ser apresentada em letras maiúsculas (sem vírgula): se a entrada for “ Guimaraes” , a saída deve ser “ GUIMARAES”;
-* se a última parte do nome for igual a "FILHO", "FILHA", "NETO", "NETA", "SOBRINHO", "SOBRINHA" ou "JUNIOR" e houver duas ou mais partes antes, a penúltima parte fará parte do sobrenome. Assim: se a entrada for "Joao Silva Neto", a saída deve ser "SILVA NETO, Joao" ; se a entrada for "Joao Neto" , a saída deve ser "NETO, Joao";
-* as partes do nome que não fazem parte do sobrenome devem ser impressas com a inicial maiúscula e com as demais letras minúsculas;
-* "da", "de", "do", "das", "dos" não fazem parte do sobrenome e não iniciam por letra maiúscula.
+ - Angular 8
+ - NgxBootstrap
+ - Bootstrap 4
+ - HashLocationStrategy
 
-## Testes por tecnologia
-* [.NET](https://github.com/guideti/obras-bibliograficas/blob/master/TESTE_DOTNET.md)
-* [Ruby](https://github.com/guideti/obras-bibliograficas/blob/master/TESTE_RUBY.md)
-* [Angular](https://github.com/guideti/obras-bibliograficas/blob/master/TESTE_ANGULAR.md)
+Teste:
 
-## Procedimento para entrega
-Realize um fork deste repositório, desenvolva sua solução e encaminhe o seu repositório com o seu código. Arquivos compactados não serão aceitos.
+ - xUnit
+ - EntityFrameworkCore.InMemory 2.2.0
 
-Altere o arquivo README para descrever quais componentes foram utilizados e como sua aplicação deverá ser executada.
+**Passo-a-Passo para execução:**
+
+Execução do back-end:
+
+1º. Abra o projeto (**ObrasBibliograficas.sln**) no Visual Studio;
+
+2º. Abra o Package Manager Console em **Tools > NuGet Package Manager > Package Manager Console**;
+
+3º. No console selecione "**src\API\ObrasBibliograficas.Api**" em Default Project;
+
+4º. No console digite o seguinte comando sem aspas "**Update-Database**" depois pressione "**ENTER**"  e aguarde a criação do banco de dados;
+
+5º. Feito isso, basta iniciar o projeto "**ObrasBibliograficas.Api**";
+
+Execução do front-end:
+
+1º. Na pasta em que o projeto foi clonado, navegue até o diretório: ".../ObrasBibliograficas/src/UI/ObrasBibliograficas.UI/ClientApp"
+
+2º. Pressionando a tecla "**SHIFT**" clique com o botão direito do mouse dentro da pasta informada acima e selecione a opção "**Abrir Janela do Power Shell Aqui**";
+
+3º. Digite o comando "**npm i**" e pressione "**ENTER**" e aguarde a instalação dos pacotes;
+
+4º. Ainda no power shell, digite o comando "**ng serve**" e pressione "**ENTER**" e aguarde o projeto compilar.
+
+5º. Feito isso, basta iniciar o navegador e entrar na seguinte url: "[http://localhost:4200/](http://localhost:4200/)"
