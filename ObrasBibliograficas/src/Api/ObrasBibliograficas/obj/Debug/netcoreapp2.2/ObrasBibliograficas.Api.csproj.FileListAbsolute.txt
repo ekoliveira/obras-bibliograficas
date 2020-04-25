@@ -39,3 +39,17 @@ C:\Users\erick\Desktop\TesteGuide\ObrasBibliograficas\src\Api\ObrasBibliografica
 C:\Users\erick\Desktop\TesteGuide\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.RazorTargetAssemblyInfo.cache
 C:\Users\erick\Desktop\TesteGuide\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.dll
 C:\Users\erick\Desktop\TesteGuide\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.pdb
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\bin\Debug\netcoreapp2.2\ObrasBibliograficas.Api.deps.json
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\bin\Debug\netcoreapp2.2\ObrasBibliograficas.Api.runtimeconfig.json
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\bin\Debug\netcoreapp2.2\ObrasBibliograficas.Api.runtimeconfig.dev.json
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\bin\Debug\netcoreapp2.2\ObrasBibliograficas.Api.dll
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\bin\Debug\netcoreapp2.2\ObrasBibliograficas.Api.pdb
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.csprojAssemblyReference.cache
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.RazorAssemblyInfo.cache
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.RazorAssemblyInfo.cs
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.AssemblyInfo.cs
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.RazorTargetAssemblyInfo.cache
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.dll
+C:\Users\erick\Desktop\obras-bibliograficas\ObrasBibliograficas\src\Api\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.Api.pdb

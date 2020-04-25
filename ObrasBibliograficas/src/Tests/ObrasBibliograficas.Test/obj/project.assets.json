@@ -11101,11 +11101,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Desktop\\TesteGuide\\ObrasBibliograficas\\src\\Tests\\ObrasBibliograficas.Test\\ObrasBibliograficas.Test.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Desktop\\obras-bibliograficas\\ObrasBibliograficas\\src\\Tests\\ObrasBibliograficas.Test\\ObrasBibliograficas.Test.csproj",
       "projectName": "ObrasBibliograficas.Test",
-      "projectPath": "C:\\Users\\erick\\Desktop\\TesteGuide\\ObrasBibliograficas\\src\\Tests\\ObrasBibliograficas.Test\\ObrasBibliograficas.Test.csproj",
+      "projectPath": "C:\\Users\\erick\\Desktop\\obras-bibliograficas\\ObrasBibliograficas\\src\\Tests\\ObrasBibliograficas.Test\\ObrasBibliograficas.Test.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Desktop\\TesteGuide\\ObrasBibliograficas\\src\\Tests\\ObrasBibliograficas.Test\\obj\\",
+      "outputPath": "C:\\Users\\erick\\Desktop\\obras-bibliograficas\\ObrasBibliograficas\\src\\Tests\\ObrasBibliograficas.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11124,8 +11124,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\erick\\Desktop\\TesteGuide\\ObrasBibliograficas\\src\\Api\\ObrasBibliograficas\\ObrasBibliograficas.Api.csproj": {
-              "projectPath": "C:\\Users\\erick\\Desktop\\TesteGuide\\ObrasBibliograficas\\src\\Api\\ObrasBibliograficas\\ObrasBibliograficas.Api.csproj"
+            "C:\\Users\\erick\\Desktop\\obras-bibliograficas\\ObrasBibliograficas\\src\\Api\\ObrasBibliograficas\\ObrasBibliograficas.Api.csproj": {
+              "projectPath": "C:\\Users\\erick\\Desktop\\obras-bibliograficas\\ObrasBibliograficas\\src\\Api\\ObrasBibliograficas\\ObrasBibliograficas.Api.csproj"
             }
           }
         }

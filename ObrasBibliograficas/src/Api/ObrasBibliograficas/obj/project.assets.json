@@ -13195,11 +13195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Desktop\\TesteGuide\\ObrasBibliograficas\\src\\Api\\ObrasBibliograficas\\ObrasBibliograficas.Api.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Desktop\\obras-bibliograficas\\ObrasBibliograficas\\src\\Api\\ObrasBibliograficas\\ObrasBibliograficas.Api.csproj",
       "projectName": "ObrasBibliograficas.Api",
-      "projectPath": "C:\\Users\\erick\\Desktop\\TesteGuide\\ObrasBibliograficas\\src\\Api\\ObrasBibliograficas\\ObrasBibliograficas.Api.csproj",
+      "projectPath": "C:\\Users\\erick\\Desktop\\obras-bibliograficas\\ObrasBibliograficas\\src\\Api\\ObrasBibliograficas\\ObrasBibliograficas.Api.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Desktop\\TesteGuide\\ObrasBibliograficas\\src\\Api\\ObrasBibliograficas\\obj\\",
+      "outputPath": "C:\\Users\\erick\\Desktop\\obras-bibliograficas\\ObrasBibliograficas\\src\\Api\\ObrasBibliograficas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
