@@ -1,0 +1,31 @@
+<div class="container">
+    <br>
+    <h1>Cadastrar autores</h1>
+    <form [formGroup]="formAutor">
+        <div class="input-group mb-3">
+            <input type="text" formControlName="Nome" class="form-control" placeholder="Nome do Autor" onkeypress="return /[a-zA-Z ]/i.test(event.key)">
+            <div class="input-group-append">
+                <button class="btn btn-outline-primary" type="button" id="insertAutor" (click)="insertAutor(formAutor.value)">Cadastrar</button>
+            </div>
+        </div>
+    </form>
+</div>
+<div class="container">
+  <table class="table">
+    <thead class="thead-light">
+      <tr>
+        <th scope="col">Autores cadastrados {{autores.length}}</th>
+        <th scope="col">Ações</th>
+      </tr>
+    </thead>
+    <tbody *ngFor="let autor of autores">
+      <tr>
+        <td scope="row">{{ nomeFormatado(autor.Nome) }}</td>
+        <td scope="row">
+          <button class="btn btn-outline-warning" type="button" id="updateAutor" (click)="updateAutor(autor)" style="margin-right: 10px;">Editar</button>
+          <button class="btn btn-outline-danger" type="button" id="deleteAutor" (click)="deleteAutor(autor.Id)">Deletar</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
