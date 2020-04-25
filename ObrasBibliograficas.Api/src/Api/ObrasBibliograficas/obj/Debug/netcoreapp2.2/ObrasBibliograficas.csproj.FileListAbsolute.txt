@@ -1,0 +1,13 @@
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\bin\Debug\netcoreapp2.2\ObrasBibliograficas.deps.json
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\bin\Debug\netcoreapp2.2\ObrasBibliograficas.runtimeconfig.json
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\bin\Debug\netcoreapp2.2\ObrasBibliograficas.runtimeconfig.dev.json
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\bin\Debug\netcoreapp2.2\ObrasBibliograficas.dll
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.RazorAssemblyInfo.cache
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.RazorAssemblyInfo.cs
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.AssemblyInfo.cs
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.RazorTargetAssemblyInfo.cache
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\bin\Debug\netcoreapp2.2\ObrasBibliograficas.pdb
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.dll
+C:\Users\erick\Desktop\Nova pasta\ObrasBibliograficas\ObrasBibliograficas\obj\Debug\netcoreapp2.2\ObrasBibliograficas.pdb
